@@ -1,0 +1,1 @@
+export const ADD_NIGHT = 'ADD_NIGHT';
